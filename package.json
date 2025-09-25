@@ -1,0 +1,28 @@
+{
+  "name": "discord-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dz-mykolas/discord-reader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dz-mykolas/discord-reader/issues"
+  },
+  "homepage": "https://github.com/dz-mykolas/discord-reader#readme",
+  "dependencies": {
+    "@types/node": "^24.5.2",
+    "discord.js-selfbot-v13": "^3.7.0",
+    "dotenv": "^17.2.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
